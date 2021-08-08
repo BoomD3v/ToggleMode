@@ -1,0 +1,7 @@
+{
+    "name": "ToggleMode",
+    "description": "A Powercord Plugin that toggles between light and dark mode.",
+    "version": "1.0.0",
+    "author": "Boom#6969",
+    "license": "MIT"
+}
